@@ -11,7 +11,7 @@ Apple 메뉴 → 이 Mac에 관하여에서 칩/프로세서를 확인하세요.
 - Apple M 시리즈 칩: `RounoStudio-1.10.0-mac-arm64.dmg`
 - Intel 프로세서: `RounoStudio-1.10.0-mac-x64.dmg`
 
-[공식 배포 페이지](https://github.com/JIwongeun/rouno-studio-releases/releases/latest)에서 받습니다. GitHub 계정은 필요 없습니다. Windows용 EXE나 소스 코드 ZIP은 Mac 설치 파일이 아닙니다.
+[1.10.0 Mac 배포 페이지](https://github.com/JIwongeun/rouno-studio-releases/releases/tag/v1.10.0)에서 받습니다. GitHub 계정은 필요 없습니다. Windows용 EXE나 소스 코드 ZIP은 Mac 설치 파일이 아닙니다.
 
 ## 처음 설치하기
 
@@ -24,6 +24,8 @@ Apple 메뉴 → 이 Mac에 관하여에서 칩/프로세서를 확인하세요.
 ## 새 버전으로 바꾸기
 
 앱이 시작하거나 일정 시간이 지나면 새 버전을 확인합니다. 새 Mac 파일이 준비되면 사이드바와 설정 → 데이터 · 업데이트에 다운로드 버튼이 나타납니다.
+
+Windows와 Mac의 배포 시점은 다를 수 있습니다. 최신 공개 버전에 Mac 파일이 없으면 기존 Mac 버전을 계속 사용하세요. 기존 설치 파일은 해당 버전의 배포 페이지에서 받을 수 있습니다.
 
 1. 다운로드 버튼으로 배포 페이지를 엽니다. 앱이 자동 종료되거나 교체되지는 않습니다.
 2. 자신의 칩에 맞는 최신 DMG를 받습니다.

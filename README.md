@@ -6,7 +6,8 @@
 
 - Windows x64, macOS 13 이상 Apple Silicon·Intel용입니다. GitHub 계정, Git, Node.js 없이 설치할 수 있습니다.
 - Windows는 `RounoStudio-Setup-버전.exe`를 받습니다. `RounoStudio-버전-Beta.zip`에는 Windows 설치 파일, 한국어 시작 안내와 체크섬이 들어 있습니다. [Windows 안내](START_HERE_KO.txt)
-- Mac의 Apple M 시리즈 칩은 `RounoStudio-버전-mac-arm64.dmg`, Intel 프로세서는 `RounoStudio-버전-mac-x64.dmg`를 받습니다. [Mac 설치·교체 안내](START_HERE_MAC_KO.txt)
+- Mac의 Apple M 시리즈 칩은 `RounoStudio-버전-mac-arm64.dmg`, Intel 프로세서는 `RounoStudio-버전-mac-x64.dmg`를 받습니다. [Mac 설치·교체 안내](START_HERE_MAC_KO.txt) · [Mac 1.10.0 다운로드](https://github.com/JIwongeun/rouno-studio-releases/releases/tag/v1.10.0)
+- Windows와 Mac의 배포 시점은 다를 수 있습니다. 최신 버전에 Mac 파일이 없으면 위 Mac 다운로드 링크에서 받을 수 있습니다.
 - Windows는 새 버전을 자동 다운로드하며, 준비된 업데이트 버튼을 눌러야 저장 후 설치·재시작합니다. Mac Beta는 새 버전을 알리고 다운로드 페이지를 엽니다. 앱을 종료한 뒤 새 DMG로 직접 교체합니다.
 - 개인 자료는 각자의 PC에 저장됩니다. 웹 계정은 본인이 로그인하고, Codex 읽기 전용 연결은 선택 사항입니다.
 - 중요 메일·관심 뉴스·논문 레이더를 필요한 만큼 설치합니다. 설정에서 자신의 계정·Jev API를 연결하고 플러그인별 사용 권한을 승인한 뒤 켜세요. 외부 실행형 플러그인 SDK는 아직 제공하지 않습니다.
